@@ -2,6 +2,8 @@
 import urlparse
 import os
 
+HTTP_PORT = 5000
+WORKERS = 3
 
 PROJECT_NAME = 'crimelb'
 

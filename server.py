@@ -22,9 +22,9 @@ def get_metadata(guid):
     """
     Endpoint to get metadata for a given GUID
     """
-    print(identifier)
-    return jsonify({'hello': identifier})
+    print(guid)
+    return jsonify({'hello': guid})
 
 
 if __name__ == '__main__':
-    app.run(processes=workers, host='0.0.0.0', port=port)
+    app.run(processes=config.WORKERS, host='0.0.0.0', port=config.HTTP_PORT)
