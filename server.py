@@ -3,6 +3,7 @@
 from flask import Flask, Response, send_file, jsonify, abort, request, redirect
 import os, boto3, StringIO, urlparse
 import simplejson as json
+import subprocess
 
 import config
 
@@ -15,6 +16,15 @@ def home():
     home page
     """
     return 'hello'
+
+
+@app.route('/exif')
+def exif():
+    """
+    home page
+    """
+    exiftool_output = subprocess.check_output(['bin/exiftool', '-ver'])
+    return exiftool_output
 
 
 @app.route('/metadata/<guid>')
