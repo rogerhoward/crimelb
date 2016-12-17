@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"ProcessingFailed\tclass"
+			],
+			[
+				"II",
+				"IIIFInfoView\tclass"
+			],
+			[
+				"I",
+				"IIIFImageView\tclass"
+			],
+			[
+				"Im",
+				"IIIFImage\tclass"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Al",
+				"AlbumSerializer\tclass"
+			],
+			[
+				"date",
+				"datetime_str\tstatement"
+			],
+			[
+				"Agen",
+				"AgendaItemViewSet\tclass"
+			],
+			[
+				"lo",
+				"LOG_LEVEL\tstatement"
+			],
+			[
+				"candi",
+				"candidate_rec\tstatement"
+			],
+			[
+				"committ",
+				"committees"
+			],
+			[
+				"comm",
+				"Committee\tclass"
+			],
+			[
+				"Dono",
+				"DonorViewSet\tclass"
+			],
+			[
+				"sourc",
+				"sourceurl_md5_generator"
+			],
+			[
+				"sort",
+				"sortable_model\tstatement"
+			],
+			[
+				"Par",
+				"PartModelYear\tclass"
+			],
+			[
+				"Model",
+				"ModelSearchView"
+			],
+			[
+				"C",
+				"CustomSearchView\tclass"
+			],
+			[
+				"Sea",
+				"SearchForm"
+			],
+			[
+				"view",
+				"viewsets"
+			],
+			[
+				"Pa",
+				"PartModelYearViewSet\tclass"
+			],
+			[
+				"Part",
+				"PartModelYearSerializer\tclass"
+			],
+			[
+				"sta",
+				"state_code\tstatement"
+			],
+			[
+				"meet",
+				"meeting_time_string\tstatement"
+			],
+			[
+				"age",
+				"agenda_url\tstatement"
+			],
+			[
+				"G",
+				"GuessViewSet\tclass"
+			],
+			[
+				"Art",
+				"ArtMinimalSerializer\tclass"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"COll",
+				"CollectionSerializer\tclass"
+			],
+			[
+				"A",
+				"ArtSerializer\tclass"
+			],
+			[
+				"get",
+				"get_object\tfunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"O",
+				"Organization\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rogerhoward/repos/crimelb"
+	],
+	"file_history":
+	[
+		"/Users/rogerhoward/repos/crimelb/server.py",
+		"/Users/rogerhoward/repos/crimelb/config.py",
+		"/Users/rogerhoward/repos/crimelb/requirements.txt",
+		"/Users/rogerhoward/repos/asiiif/config.py",
+		"/Users/rogerhoward/repos/crunchy/.gitignore",
+		"/Users/rogerhoward/Desktop/relics.md",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/exceptions.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/__init__.py",
+		"/Users/rogerhoward/repos/_dev_settings/crunchy.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/static/css/base.css",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/templates/base.html",
+		"/Users/rogerhoward/repos/crunchy/app/core/templates/home.html",
+		"/Users/rogerhoward/repos/crunchy/app/core/views.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/dev.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/urls.py",
+		"/Users/rogerhoward/repos/crunchy/requirements.txt",
+		"/Users/rogerhoward/repos/crunchy/README.md",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/processors.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/templates/image.html",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/tools.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/settings.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/views.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/models.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/utils/misc.py",
+		"/Users/rogerhoward/repos/crunchy/crunchy.sublime-project",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/sources.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/general.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/utils/md5.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/iiif.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/lib/config.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/lib/__init__.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/lib/processor.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/processor.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/lib/tools.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/admin.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/serializers.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/serializers.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/management/commands/iiif_info.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/models.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/urls.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/viewsets.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/viewsets.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/crunch.sublime-project",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/urls.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/apps.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/admin.py",
+		"/Users/rogerhoward/repos/crunchy/app/iiif/apps.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/utils/metadata.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/base.py",
+		"/Users/rogerhoward/repos/crunchy/app/core/settings.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/celery.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/wsgi.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/database.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/drf.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/email.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/haystack.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/media.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/prod.py",
+		"/Users/rogerhoward/repos/crunchy/app/crunchy/settings/relic.py",
+		"/Users/rogerhoward/repos/crunchy/app/manage.py",
+		"/Users/rogerhoward/repos/crunchy/.venv",
+		"/Users/rogerhoward/repos/crunchy/requirements 2.txt",
+		"/Users/rogerhoward/repos/relic/app/core/models.py",
+		"/Users/rogerhoward/repos/relic/app/core/views.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/search_indexes.py",
+		"/Users/rogerhoward/repos/relic/app/core/templates/search/faceting.html",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/relic.py",
+		"/Users/rogerhoward/repos/relic/app/relic/wsgi.py",
+		"/Users/rogerhoward/repos/relic/app/core/__init__.py",
+		"/Users/rogerhoward/repos/relic/app/relic/static/css/base.css",
+		"/Users/rogerhoward/repos/relic/app/stuff/tasks.py",
+		"/Users/rogerhoward/repos/relic/app/core/tasks.py",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/__init__.py",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/apps.py",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/celery.py",
+		"/Users/rogerhoward/repos/relic/app/relic/urls.py",
+		"/Users/rogerhoward/repos/relic/app/relic/context_processors.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/static/stuff/css/stuff.css",
+		"/Users/rogerhoward/repos/relic/app/stuff/models.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/static/stuff/js/photo.js",
+		"/Users/rogerhoward/repos/relic/app/stuff/static/stuff/css/home.css",
+		"/Users/rogerhoward/repos/relic/app/core/templates/search/search_bootstrap_facets.html",
+		"/Users/rogerhoward/repos/relic/app/stuff/templates/stuff/photo.html",
+		"/Users/rogerhoward/repos/relic/app/relic/celery.py",
+		"/Users/rogerhoward/repos/relic/app/relic/__init__.py",
+		"/Users/rogerhoward/repos/relic/requirements.txt",
+		"/Users/rogerhoward/repos/relic/app/core/templatetags/__init__.py",
+		"/Users/rogerhoward/repos/relic/app/core/templatetags/range.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/templates/search/indexes/stuff/photo_text.txt",
+		"/Users/rogerhoward/repos/relic/app/stuff/static/stuff/css/photo.css",
+		"/Users/rogerhoward/repos/relic/app/stuff/templates/stuff/collection.html",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/media.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/templates/stuff/home.html",
+		"/Users/rogerhoward/repos/crunchy/server.py",
+		"/Users/rogerhoward/repos/crunchy/obj.py",
+		"/Users/rogerhoward/repos/crunchy/tools.py",
+		"/Users/rogerhoward/repos/relic/app/core/templatetags/class_tag.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/static/stuff/js/stuff.js",
+		"/Users/rogerhoward/repos/relic/app/stuff/views.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/management/commands/stuff_sync.py",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/base.py",
+		"/Users/rogerhoward/repos/relic/app/relic/templates/base.html",
+		"/Users/rogerhoward/repos/relic/app/relic/settings/general.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/admin.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/viewsets.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/serializers.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/urls.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/apps.py",
+		"/Users/rogerhoward/repos/relic/app/core/utils/media.py",
+		"/Users/rogerhoward/repos/relic/app/core/utils/media_tools.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/management/commands/albums_sync.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/migrations/0001_initial.py",
+		"/Users/rogerhoward/repos/relic/app/stuff/migrations/0002_auto_20161205_1727.py",
+		"/Users/rogerhoward/repos/relic/app/media/management/commands/albums_sync.py",
+		"/Users/rogerhoward/repos/relic/app/media/models.py",
+		"/Users/rogerhoward/repos/relic/app/media/views.py",
+		"/Users/rogerhoward/repos/relic/app/media/viewsets.py",
+		"/Users/rogerhoward/repos/relic/app/media/urls.py",
+		"/Users/rogerhoward/repos/relic/app/media/serializers.py",
+		"/Users/rogerhoward/repos/relic/app/media/search_indexes.py",
+		"/Users/rogerhoward/repos/relic/app/media/admin.py",
+		"/Users/rogerhoward/repos/relic/app/media/templates/search/indexes/media/photo_text.txt",
+		"/Users/rogerhoward/repos/relic/app/media/templates/media/photo.html",
+		"/Users/rogerhoward/repos/relic/app/core/utils/metadata.py",
+		"/Users/rogerhoward/repos/relic/app/core/templates/search/includes/pager.html",
+		"/Users/rogerhoward/repos/relic/app/core/tests.py",
+		"/Users/rogerhoward/Desktop/test.json",
+		"/Users/rogerhoward/repos/relic/app/albums/models.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.py",
+			"",
+			"*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"s3_client",
+			"Relic",
+			",*",
+			"*",
+			"proxy_remote_images",
+			"enb64",
+			"b64",
+			"get_metadata_for",
+			"path_to_exiftool",
+			"metada",
+			"meta",
+			"abort",
+			"\n                # abort(400)",
+			"\n                print(('image is now {0}x{1}'.format(self.image.size[0], self.image.size[1])))",
+			"urllib",
+			"json",
+			"pprint",
+			"byteStream",
+			"byte",
+			"bytesio",
+			"byte",
+			"deriv",
+			"use_pixel_scale_cache",
+			"cant open image",
+			"type_map",
+			"proxy_root",
+			"media_root",
+			"iiif.lib.config.",
+			"core.tools",
+			"iiif.lib.tools",
+			"tools",
+			"iiif.lib.iiif",
+			"md5",
+			"iiif.lib.config",
+			"md5",
+			"iiif.lib.config.path_to_exiftool",
+			"iiif.lib.config.cache_root",
+			"CACHE_ROOT",
+			"iiif.lib.config.",
+			"config",
+			"iiif.lib.tools.log",
+			"serve_pil_image",
+			"open_file",
+			"iiif.lib.tools.get_md5",
+			"metadata",
+			"response_dict['xmp'][0]",
+			"get_metadata_for\nget_metadata_for",
+			"IIIF_CACHE",
+			"max_dimensions",
+			"dimensions",
+			"iiif.lib.config.sharpen",
+			"sharpen",
+			"preserving_metadata",
+			"iiif.lib.config.use_cache",
+			"config",
+			"use_cache",
+			"server_name",
+			"lib.config",
+			"tools.",
+			"config.",
+			"lib.config.",
+			"config.",
+			"fin",
+			"IIIFImageTestView",
+			"iiif",
+			"ImageView",
+			"stuff.",
+			"arrow",
+			"haystack",
+			"stuff.",
+			"stuff",
+			"arrow",
+			"relic",
+			"Relic",
+			"relic",
+			"relic.",
+			"asset",
+			"post_save",
+			"humantime",
+			"celery",
+			"{\n",
+			"span",
+			"size",
+			"keywords",
+			"camera",
+			"rating",
+			"label",
+			"li",
+			"dd",
+			"\n                {# Provide only the top 5 authors #}",
+			"self",
+			"camera",
+			"lens",
+			"shutter_speed",
+			"' % (",
+			"%s",
+			"valid",
+			"print",
+			"' % (",
+			"%s",
+			"format",
+			"request",
+			"use_cache",
+			"type_map",
+			", ",
+			" % ",
+			"%s",
+			"command",
+			"urllib",
+			"print",
+			"' % (",
+			"%s",
+			"photo",
+			"media_tools",
+			"media.",
+			"256",
+			"album",
+			"stuff_",
+			"stuff_model",
+			"stuff.",
+			"stuff",
+			"stuff_",
+			".stuff_",
+			"stuff_",
+			"media",
+			"media_",
+			"Asset",
+			"Collection"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"iiif.lib.tools.",
+			"iiif.lib.config.",
+			"config.",
+			"lib.config.",
+			"Crunchy",
+			"crunchy.",
+			"'.format(",
+			"{}",
+			".format",
+			"{}",
+			"stuff_",
+			"stuff.",
+			"': '",
+			"\\\"",
+			"href=\"/",
+			"/img/home/",
+			"http://electoralcollegepetition.com/ecpw/",
+			"/",
+			".format",
+			"{}",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crimelb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
